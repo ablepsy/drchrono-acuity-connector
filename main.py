@@ -1,0 +1,1 @@
+# Main script for DrChrono-Acuity Connector\n\n# This script will handle the integration logic between DrChrono and Acuity.\n\nif __name__ == '__main__':\n    print('DrChrono-Acuity Connector is running')
