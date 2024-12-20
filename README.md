@@ -1,0 +1,1 @@
+# DrChrono-Acuity Connector\n\nThis project aims to integrate DrChrono and Acuity for seamless scheduling and patient management.\n\n## Features\n- Sync appointments between DrChrono and Acuity\n- Manage patient data efficiently\n\n## Getting Started\nInstructions on setting up the project will be added here.
