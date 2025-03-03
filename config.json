@@ -1,0 +1,7 @@
+{
+    "drchrono_api_key": "YOUR_DRCHRONO_API_KEY",
+    "acuity_user_id": "YOUR_ACUITY_USER_ID",
+    "acuity_api_key": "YOUR_ACUITY_API_KEY",
+    "sync_interval": 60,
+    "days_to_sync": 30
+}
